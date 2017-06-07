@@ -1,7 +1,7 @@
 {
   "name": "ds-angular-validation-ghiscoding",
-  "version": "1.5.21",
-  "author": "Ghislain B.",
+  "version": "1.5.22",
+  "author": "Dreamover Studio",
   "description": "Angular-Validation Directive and Service (ghiscoding)",
   "main": [
     "locales/validation/en.js",
