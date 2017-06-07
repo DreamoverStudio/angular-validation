@@ -1,5 +1,5 @@
 {
-  "name": "angular-validation-ghiscoding",
+  "name": "ds-angular-validation-ghiscoding",
   "version": "1.5.21",
   "author": "Ghislain B.",
   "description": "Angular-Validation Directive and Service (ghiscoding)",
@@ -37,7 +37,7 @@
   "homepage": "http://github.com/ghiscoding/angular-validation",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ghiscoding/angular-validation"
+    "url": "git://github.com/DreamoverStudio/angular-validation"
   },
   "dependencies": {
     "angular": ">= 1.2.0",
