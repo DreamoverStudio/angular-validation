@@ -5,7 +5,7 @@
   "description": "Angular-Validation Directive and Service (ghiscoding)",
   "main": [
     "locales/validation/en.js",
-    "locales/validation/fr.js",
+    "locales/validation/cn.js",
     "dist/angular-validation.min.js",
     "src/validation-directive.js",
     "src/validation-common.js",
